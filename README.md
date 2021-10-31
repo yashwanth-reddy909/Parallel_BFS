@@ -1,3 +1,3 @@
 # Parallel_BFS
 
-Finding the depth for a randomized graph of specified size in Work Efficient way 
+Finding the depth (from node 0) for a randomized graph of specified size in Work Efficient way 
